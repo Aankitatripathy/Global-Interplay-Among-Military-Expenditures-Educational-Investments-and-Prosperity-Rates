@@ -95,3 +95,7 @@ Global-Interplay-Among-Military-Expenditures-Educational-Investments-and-Prosper
 ├── global-spending-prosperity-analysis.ipynb
 ├── requirements.txt
 └── README.md
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
